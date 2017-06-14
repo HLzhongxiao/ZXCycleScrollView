@@ -2,7 +2,6 @@ ZXCycleScrollView
 =================
 
 [![iOS](https://img.shields.io/badge/iOS-ZXCycleScrollView-brightgreen.svg)](https://github.com/HLzhongxiao)
-
 [![Language](https://img.shields.io/badge/Language-Objective--C-brightgreen.svg)](https://github.com/HLzhongxiao)
 
 Very convenient carousel picture display mode
