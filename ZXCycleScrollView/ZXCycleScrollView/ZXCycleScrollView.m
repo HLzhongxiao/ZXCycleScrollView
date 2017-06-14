@@ -326,7 +326,18 @@
 }
 
 - (void)willMoveToSuperview:(UIView *)newSuperview {
-    [self reloadCycleData];
+    if(newSuperview)
+    {
+        [self reloadCycleData];
+    }else{
+        [self endTimer];
+    }
+}
+
+- (void)layoutSubviews
+{
+    [super layoutSubviews];
+    self.mainScrollView.contentInset = UIEdgeInsetsZero;
 }
 
 @end
