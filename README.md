@@ -15,7 +15,7 @@ tell me !**
 ZXCycleScrollView is a more convenient control, and its use is similar to the UITableView loading data mode, picture resources loaded easier to compare, do not need to do too many operations.
 
 ## Demo
-![](DeoGif.gif)
+![DeoGif](Resources/DeoGif.gif)
 
 ## Usage
 
